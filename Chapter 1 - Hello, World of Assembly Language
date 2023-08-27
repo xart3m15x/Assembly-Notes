@@ -1,0 +1,9 @@
+- Microsoft Macro Assembler (MASM)
+  - Most commonly used assembler for writing x86/x64 programs
+  - Other assemblers that are common include:
+    - GNU Assembler (gas)
+    - Netwide Assembler (NASM)
+    - Flat Assembler (FASM)
+
+What You'll Need
+- 
